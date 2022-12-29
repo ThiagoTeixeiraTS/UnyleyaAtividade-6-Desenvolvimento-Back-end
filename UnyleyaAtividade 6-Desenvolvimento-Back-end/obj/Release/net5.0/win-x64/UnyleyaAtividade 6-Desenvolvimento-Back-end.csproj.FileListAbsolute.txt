@@ -1,0 +1,49 @@
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\appsettings.Development.json
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\appsettings.json
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.exe
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.deps.json
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.runtimeconfig.json
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.runtimeconfig.dev.json
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.pdb
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Humanizer.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.Data.Sqlite.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Microsoft.OpenApi.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\SQLitePCLRaw.nativelibrary.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\SQLitePCLRaw.core.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\bin\Release\net5.0\win-x64\e_sqlite3.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.csproj.AssemblyReference.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.AssemblyInfoInputs.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.AssemblyInfo.cs
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.csproj.CoreCompileInputs.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\scopedcss\bundle\UnyleyaAtividade 6-Desenvolvimento-Back-end.styles.css
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\UnyleyaAtividade 6-Desenvolvimento-Back-end.StaticWebAssets.Manifest.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\UnyleyaAtividade 6-Desenvolvimento-Back-end.StaticWebAssets.Pack.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\msbuild.UnyleyaAtividade 6-Desenvolvimento-Back-end.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\msbuild.build.UnyleyaAtividade 6-Desenvolvimento-Back-end.props
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.UnyleyaAtividade 6-Desenvolvimento-Back-end.props
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\staticwebassets\msbuild.buildTransitive.UnyleyaAtividade 6-Desenvolvimento-Back-end.props
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.RazorTargetAssemblyInfo.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.csproj.CopyComplete
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\refint\UnyleyaAtividade 6-Desenvolvimento-Back-end.dll
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.pdb
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\UnyleyaAtividade 6-Desenvolvimento-Back-end.genruntimeconfig.cache
+D:\Projetos\UnyLeya\Projetos\API\UnyleyaAtividade 6-Desenvolvimento-Back-end\UnyleyaAtividade 6-Desenvolvimento-Back-end\obj\Release\net5.0\win-x64\ref\UnyleyaAtividade 6-Desenvolvimento-Back-end.dll
